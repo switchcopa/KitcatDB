@@ -1,0 +1,3 @@
+/home/xray/dev/Kitcat-db/build/CMakeFiles/kitcat-db.dir
+/home/xray/dev/Kitcat-db/build/CMakeFiles/edit_cache.dir
+/home/xray/dev/Kitcat-db/build/CMakeFiles/rebuild_cache.dir

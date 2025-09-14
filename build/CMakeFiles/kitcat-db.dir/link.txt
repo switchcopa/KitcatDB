@@ -1,0 +1,1 @@
+/usr/bin/cc "CMakeFiles/kitcat-db.dir/src/hash-table.c.o" "CMakeFiles/kitcat-db.dir/src/main.c.o" "CMakeFiles/kitcat-db.dir/src/node.c.o" -o kitcat-db 
