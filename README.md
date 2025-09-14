@@ -36,7 +36,7 @@ KitcatDB serves to be the stupidest way to store key-value data into .txt files.
 This acts as a project to practice and visualize a way how key-value data is
 stored, deleted and retrieved.
 
-For documentation on the API go to [API](https://github.com/switchcopa/KitcatDB/docs/api.md)
+For documentation on the API go to [API](https://github.com/switchcopa/KitcatDB/blob/main/docs/api.md?plain=1)
 
 ### Build 
 
